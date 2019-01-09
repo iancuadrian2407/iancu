@@ -1,4 +1,6 @@
  #EXTM3U
+#EXTINF:0 type="playlist", 2015
+#EXTSIZE: Medium
 #EXTINF:-1,It | Animalplanet
 http://formen1.com:8080/kenann/5GzkEpa734/1350
 #EXTINF:-1,It | Canale 5
@@ -141,6 +143,8 @@ http://formen1.com:8080/kenann/5GzkEpa734/1377
 http://formen1.com:8080/kenann/5GzkEpa734/1341
 
 #EXTM3U
+#EXTINF:0 type="playlist", roma
+#EXTSIZE: Medium
 #EXTINF:-1,RO: TVR 1
 http://212.8.243.65:2095/mario11/7ULA8op2CK/1459
 #EXTINF:-1,RO: TVR 2
